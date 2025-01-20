@@ -1,3 +1,9 @@
+**Inventory Management System**
+
+🛠️ Project Overview
+
+This Inventory Management System is a GUI-based application built with Python's Tkinter. It allows users to manage inventory items while maintaining personalized accounts through a secure authentication system. Each user's inventory data is stored persistently, ensuring no loss of information even after the application is closed.
+
 Key Features of My Inventory Management System with User Authentication
 🚀 Personalized User Authentication
 
@@ -23,3 +29,17 @@ Automatically generates reports for low-stock items based on user-defined thresh
 🎯 User-Centric Design
 
 Simple GUI built with Python's Tkinter, making inventory management intuitive for all users.
+
+🖥️ Technologies Used
+
+Python 3.x
+
+Tkinter (for GUI)
+
+JSON (for data storage)
+
+Run:
+
+python inventory_management.py  
+
+
