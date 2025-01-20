@@ -1,0 +1,25 @@
+Key Features of My Inventory Management System with User Authentication
+🚀 Personalized User Authentication
+
+Secure login and sign-up system with individual user accounts.
+Each user's inventory is separate and securely stored.
+
+🗂️ Persistent Data Storage
+
+Inventory and user data are saved locally, ensuring no data loss even after logout or app closure.
+
+🔍 Case-Insensitive Search & Actions
+
+Add, view, edit, or delete products using case-insensitive product names or IDs.
+
+📊 Enhanced Inventory Insights
+
+Displays total inventory value (price × stock) for easy tracking.
+
+📉 Low-Stock Alerts
+
+Automatically generates reports for low-stock items based on user-defined thresholds.
+
+🎯 User-Centric Design
+
+Simple GUI built with Python's Tkinter, making inventory management intuitive for all users.
