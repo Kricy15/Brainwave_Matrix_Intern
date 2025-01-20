@@ -32,7 +32,7 @@ Simple GUI built with Python's Tkinter, making inventory management intuitive fo
 
 🖥️ Technologies Used
 
-Python 3.x
+Python 3.9.0 or higher
 
 Tkinter (for GUI)
 
